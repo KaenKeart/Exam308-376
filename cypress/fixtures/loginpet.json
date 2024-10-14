@@ -1,0 +1,10 @@
+{
+    "username": {
+        "positive": "j2ee",
+        "negative": "incorrectusername"
+    },
+    "password": {
+        "positive": "j2ee",
+        "negative": "incorrectPassword"
+    }
+}

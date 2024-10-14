@@ -1,0 +1,10 @@
+{
+    "username": {
+        "positive": "tomsmith",
+        "negative": "incorrectusername"
+    },
+    "password": {
+        "positive": "SuperSecretPassword!",
+        "negative": "incorrectPassword"
+    }
+}
